@@ -1,0 +1,272 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+  <!-- Basic -->
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <!-- Mobile Metas -->
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+  <!-- Site Metas -->
+  <link rel="icon" href="images/fevicon.png" type="image/gif" />
+  <meta name="keywords" content="" />
+  <meta name="description" content="" />
+  <meta name="author" content="" />
+
+  <title>تکنوبازار</title>
+
+
+  <!-- bootstrap core css -->
+  <link rel="stylesheet" type="text/css" href="css/bootstrap.css" />
+
+  <!-- fonts style -->
+  <link href="https://fonts.googleapis.com/css?family=Poppins:400,600,700&display=swap" rel="stylesheet" />
+
+  <!-- font awesome style -->
+  <link href="css/font-awesome.min.css" rel="stylesheet" />
+  <!-- Custom styles for this template -->
+  <link href="css/style.css" rel="stylesheet" />
+  <!-- responsive style -->
+  <link href="css/responsive.css" rel="stylesheet" />
+
+</head>
+
+<body class="sub_page">
+
+  <div class="hero_area"  style=" direction: rtl;
+    text-align: right;">
+    <!-- header section strats -->
+    <header class="header_section long_section px-0">
+      <nav class="navbar navbar-expand-lg custom_nav-container ">
+        <a class="navbar-brand" href="index.html">
+          <span>
+           💻تکنوبازار
+          </span>
+        </a>
+        </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class=""> </span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <div class="d-flex mx-auto flex-column flex-lg-row align-items-center">
+            <ul class="navbar-nav  ">
+              <li class="nav-item ">
+               <a class="nav-link" href="index.html">خانه<span class="sr-only">(current)</span></a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="about.html">درباره ما</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="furniture.html">گجت</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="blog.html">بلاگ</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="contact.html">ارتباط با ما</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </nav>
+    </header>
+    <!-- end header section -->
+  </div>
+
+
+  <!-- blog section -->
+
+  <section class="blog_section layout_padding">
+    <div class="container">
+      <div class="heading_container">
+        <h2>
+       آخرین وبلاگ ها
+        </h2>
+      </div>
+      <div class="row"  style=" direction: rtl;
+    text-align: right;">
+        <div class="col-md-6 col-lg-4 mx-auto">
+          <div class="box">
+            <div class="img-box">
+              <img src="images/b1.jpg" alt="">
+            </div>
+            <div class="detail-box">
+              <h5>
+               لپ تاب مناسب برنامه نویسی چه ویژگی هایی دارد ؟
+              </h5>
+              <p>
+                لپ‌تاپ مناسب برنامه‌نویسی باید دارای ویژگی‌های زیر باشد :
+1️⃣ قدرت پردازش: لپ‌تاپ باید دارای پردازنده قوی باشد تا بتوانید برنامه‌های سنگین و پیچیده را به طور موثر اجرا کنید. پردازنده‌های مدل‌های Intel Core i7 یا AMD Ryzen 7 معمولاً توصیه می‌شوند.
+
+
+              </p>
+              <a href="">
+               ادامه مطلب
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6 col-lg-4 mx-auto">
+          <div class="box">
+            <div class="img-box">
+              <img src="images/b2.jpg" alt="">
+            </div>
+            <div class="detail-box">
+              <h5>
+              در خرید تبلت ایپد باید به چه نکاتی توجه کنیم ؟
+              </h5>
+              <p>
+              براي خريد يک تبلت آيپد، مهم است که به موارد زير توجه کنيد :
+4️⃣ ظرفيت حافظه: مدل‌های مختلف آیپد با ظرفیت های متفاوتی از حافظه عرضه می‌شوند. از جمله ظرفیت‌های متداول عبارتند از 32 گیگابایت، 128 گیگابایت و 256 گیگابایت.
+              </p>
+              <a href="">
+               ادامه مطلب
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6 col-lg-4 mx-auto">
+          <div class="box">
+            <div class="img-box">
+              <img src="images/b3.jpg" alt="">
+            </div>
+            <div class="detail-box">
+              <h5>
+                چگونه یک هدفون با کیفیت را از بی کیفیت تشخیص دهیم ؟
+              </h5>
+              <p>
+                هنگامی که در تلاش برای انتخاب هَدفون با کیفیت هستید، توجه به عوامل زیر می‌تواند به شما در تشخیص بیشتر کمک کند :
+1️⃣ کیفیت صوت: هَدفون با کیفیت بالا صدایی دقیق و واضح را تولید می‌کند. بررسی توانایی هَدفون در پوشش تمام فرکانس‌ها (باس، میان‌باس و تریبل) و انتقال جزئیات صدا می‌تواند معیاری برای ارزیابی کیفیت صوت باشد
+              </p>
+              <a href="">
+                ادامه مطلب
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- end blog section -->
+
+  <!-- info section -->
+  <section class="info_section long_section" style=" direction: rtl;
+    text-align: right;">
+
+    
+    <div class="container">
+      <div class="contact_nav">
+        <a href="">
+          <i class="fa fa-phone" aria-hidden="true"></i>
+          <span>
+            شماره تماس : 09214979154
+          </span>
+        </a>
+        <a href="">
+          <i class="fa fa-envelope" aria-hidden="true"></i>
+          <span>
+            ایمیل:teknobazar@gmail.com
+          </span>
+        </a>
+        <a href="">
+          <i class="fa fa-map-marker" aria-hidden="true"></i>
+          <span>
+           لوکیشن فروشگاه
+          </span>
+        </a>
+      </div>
+          
+
+      <div class="info_top ">
+        <div class="row ">
+          <div class="col-sm-6 col-md-4 col-lg-3">
+            <div class="info_links">
+              <h4>
+                لینک های سریع
+              </h4>
+              <div class="info_links_menu">
+                <a class="" href="index.html">خانه<span class="sr-only">(current)</span></a>
+                <a class="" href="about.html">درباره ما</a>
+                <a class="" href="furniture.html">گجت</a>
+                <a class="" href="blog.html">بلاگ</a>
+                <a class="" href="contact.html">ارتباط با ما</a>
+              </div>
+            </div>
+          </div>
+          <div class="col-sm-6 col-md-4 col-lg-3 mx-auto">
+            <div class="info_post">
+              <h5>
+                فیدهای اینستاگرام
+              </h5>
+              <div class="post_box">
+                <div class="img-box">
+                  <img src="images/f1.png" alt="">
+                </div>
+                <div class="img-box">
+                  <img src="images/f2.png" alt="">
+                </div>
+                <div class="img-box">
+                  <img src="images/f3.png" alt="">
+                </div>
+                <div class="img-box">
+                  <img src="images/f4.png" alt="">
+                </div>
+                <div class="img-box">
+                  <img src="images/f5.png" alt="">
+                </div>
+                <div class="img-box">
+                  <img src="images/f6.png" alt="">
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="info_form">
+              <h4>
+                در خبرنامه ما ثبت نام کنید
+              </h4>
+              <form action="">
+                <input type="text" placeholder="ایمیل خود را وارد کنید" />
+                <button type="submit">
+                  ثبت نام
+                </button>
+              </form>
+              <div class="social_box">
+                <a href="">
+                  <i class="fa fa-facebook" aria-hidden="true"></i>
+                </a>
+                <a href="">
+                  <i class="fa fa-twitter" aria-hidden="true"></i>
+                </a>
+                <a href="">
+                  <i class="fa fa-linkedin" aria-hidden="true"></i>
+                </a>
+                <a href="">
+                  <i class="fa fa-instagram" aria-hidden="true"></i>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- end info_section -->
+   
+
+
+
+  <!-- jQery -->
+  <script src="js/jquery-3.4.1.min.js"></script>
+  <!-- bootstrap js -->
+  <script src="js/bootstrap.js"></script>
+  <!-- custom js -->
+  <script src="js/custom.js"></script>
+  <!-- Google Map -->
+  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCh39n5U-4IoWpsVGUHWdqB6puEkhRLdmI&callback=myMap"></script>
+  <!-- End Google Map -->
+
+</body>
+
+</html>
